@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: Història
@@ -33,4 +34,12 @@ I com no el mesos passen i ja enfilem el 2015, any que ens fa posar les piles al
 El 2016 va ser un any d'activitats intenses, volíem fer veure al món que teníem moltes ganes de ballar i que ens agradava molt ensenyar-ho arreu on anàvem. 
 Vam anar a ballar a Xeresa (València) on vam descobrir altres danses tradicionals i les vam aprendre a ballar. 
 Aquell mateix any entorn al 75è aniversari, vam estrenar el nostre últim espectacle: "Vida i costums i Tossa 1914" que vam estrenar a Igualada el maig del 2016. 
-Finalment, per culminar l'any, ens vam presentar en un concurs de danses tradicionals a Prada de Conflent amb les danses "Ball Cerdà" i "Ball de Panderetes". 
+Finalment, per culminar l'any, ens vam presentar en un concurs de danses tradicionals a Prada de Conflent amb les danses "Ball Cerdà" i "Ball de Panderetes". A més, la secció de veterans celebrava el seu 25è aniversari, recordant el seu compromís constant amb la dansa.
+
+
+L’any 2018, l’Agrupació va participar al 31è Aplec Internacional, celebrat entre Manresa i Washington, on vam tenir l’oportunitat de compartir la nostra cultura amb el món. A final d’any vam presentar un nou espectacle de tota l’entitat: Som ritme, som cultura, som Agrupació Folklòrica Igualadina, una mostra del batec col·lectiu que ens uneix.
+L’any 2020 va arribar la pandèmia i, amb ella, un silenci forçat als escenaris. Però l’AFI no es va aturar i vam seguir assajant des de casa i mantenint viva la dansa.
+ Després de dos anys d'adaptació a la nova realitat, finalment, al novembre del 2023, vam presentar Les quatre estacions, un espectacle coral on tots els grups de l’entitat hi van participar.
+El 2024 fou un any d’obertura internacional! El cos de dansa va participar a l’Aplec Internacional de Prešov (Eslovàquia), una experiència única organitzada per Adifolk. També vam ser presents a la Trobada Folklòrica de Calella, ballant amb grups de dansa d’arreu del món (Índia, Costa Rica, Geòrgia…). Aquest any també vam ser finalistes al Premi Grup Adifolk 2024, un reconeixement que ens omple d’orgull.
+El 2025, coincidint amb el nostre 85è aniversari, vam encapçalar la rua de Carnaval com a Rei Carnestoltes, fusionant El fantasma de l’òpera amb la nostra dansa. Al març, el cos de dansa i el grup de veterans van participar en els actes del Mil·lenari de Montserrat, amb una actuació conjunta amb altres esbarts del territori, en un entorn tan emblemàtic com simbòlic. Finalment, seguint amb la celebració de l’aniversari de l’entitat, a principis de juny, vam acollir a la nostra ciutat la cloenda de la Roda d’Esbarts 2025, reunint més de 200 infants de 12 esbarts diferents en una jornada plena de dansa, tradició, cultura i germanor.
+
