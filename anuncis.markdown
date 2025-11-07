@@ -12,6 +12,6 @@ Enguany ens endinsarem en la intergeneracionalitat, un homenatge al vincle entre
 
 Tenim moltes ganes de celebrar-ho amb totes vosaltres... així que os hi esperem!!!
 
-##### 📅 29 de novembre
-##### 📍 Ateneu Igualadí
-##### ⏰ (19h)
+📅 **29 de novembre**
+📍 **Ateneu Igualadí**
+⏰ **(19h)**
