@@ -12,7 +12,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Agrupació Folklòrica Igualadina
-email: info@agrupaciofolkloricaigualadina.cat
+shorttitle: AFI
+email: petitsafi@gmail.com
 description: >-
   L'agrupació Folklòrica Igualadina és una entitat de dansa tradicional igualadina que propaga la cultura popular i tradicional des de 1940.
 baseurl: ""

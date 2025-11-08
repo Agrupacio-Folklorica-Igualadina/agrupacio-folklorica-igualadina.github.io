@@ -1,53 +1,113 @@
 <footer class="footer">
     <div class="container">
         <div class="footer-content">
-            <div class="footer-section">
+            <div class="footer-section footer-section-about">
                 <img
                     src="{{ '/assets/images/logo_afi.jpg' | relative_url }}"
                     alt="{{ site.title }}"
                     class="footer-logo"
                 />
-                <h4>{{ site.title }}</h4>
-                <p>
-                    Preservant la cultura popular i tradicional catalana des de
-                    1940. Una entitat dedicada a la dansa folklòrica i les
-                    tradicions del nostre poble.
-                </p>
-            </div>
-
-            <div class="footer-section">
-                <h4>Navegació</h4>
-                <p><a href="{{ '/' | relative_url }}">Inici</a></p>
-                <p><a href="{{ '/història' | relative_url }}">Història</a></p>
-                <p>
-                    <a href="{{ '/espectacles' | relative_url }}"
-                        >Espectacles</a
-                    >
-                </p>
-                <p>
-                    <a href="{{ '/escola-de-dansa' | relative_url }}"
-                        >Escola de Dansa</a
-                    >
-                </p>
-                <p><a href="{{ '/calendari' | relative_url }}">Calendari</a></p>
-                <p><a href="{{ '/contacte' | relative_url }}">Contacte</a></p>
+                <div>
+                    <h4>{{ site.title }}</h4>
+                    <p>
+                        Preservant la cultura popular i tradicional catalana des
+                        de 1940. Una entitat dedicada a la dansa folklòrica i
+                        les tradicions del nostre poble.
+                    </p>
+                </div>
             </div>
 
             <div class="footer-section">
                 <h4>Contacte</h4>
-                <p>📧 {{ site.email }}</p>
-                <p>📱 Instagram: @{{ site.instagram_username }}</p>
-                <p>🐦 Twitter: @{{ site.twitter_username }}</p>
-                <p>📱 TikTok: @{{ site.tiktok_username }}</p>
-                <p>📍 Igualada, Catalunya</p>
+                <p>
+                    <a
+                        href="mailto:{{ site.email }}"
+                        style="text-decoration: none"
+                    >
+                        <img
+                            src="{{ '/assets/icons/email.svg' | relative_url }}"
+                            alt="Email"
+                            style="
+                                vertical-align: middle;
+                                width: 20px;
+                                height: 20px;
+                                margin-right: 6px;
+                            "
+                        />
+                        {{ site.email }}
+                    </a>
+                </p>
+                <p>
+                    <a
+                        href="https://instagram.com/{{ site.instagram_username }}"
+                        target="_blank"
+                        rel="noopener"
+                        style="text-decoration: none"
+                    >
+                        <img
+                            src="{{ '/assets/icons/instagram.svg' | relative_url }}"
+                            alt="Instagram"
+                            style="
+                                vertical-align: middle;
+                                width: 20px;
+                                height: 20px;
+                                margin-right: 6px;
+                            "
+                        />
+                        @{{ site.instagram_username }}
+                    </a>
+                </p>
+                <p>
+                    <a
+                        href="https://twitter.com/{{ site.twitter_username }}"
+                        target="_blank"
+                        rel="noopener"
+                        style="text-decoration: none"
+                    >
+                        <img
+                            src="{{ '/assets/icons/twitter.svg' | relative_url }}"
+                            alt="Twitter"
+                            style="
+                                vertical-align: middle;
+                                width: 20px;
+                                height: 20px;
+                                margin-right: 6px;
+                            "
+                        />
+                        @{{ site.twitter_username }}
+                    </a>
+                </p>
+                <p>
+                    <a
+                        href="https://tiktok.com/@{{ site.tiktok_username }}"
+                        target="_blank"
+                        rel="noopener"
+                        style="text-decoration: none"
+                    >
+                        <img
+                            src="{{ '/assets/icons/tiktok.svg' | relative_url }}"
+                            alt="TikTok"
+                            style="
+                                vertical-align: middle;
+                                width: 20px;
+                                height: 20px;
+                                margin-right: 6px;
+                            "
+                        />
+                        @{{ site.tiktok_username }}
+                    </a>
+                </p>
             </div>
 
             <div class="footer-section">
                 <h4>Horaris</h4>
-                <p><strong>Petits:</strong> Dissabtes 10:00 - 11:00</p>
-                <p><strong>Mitjans:</strong> Dissabtes 11:00 - 12:00</p>
-                <p><strong>Juvenils:</strong> Dissabtes 17:00 - 18:30</p>
-                <p><strong>Adults:</strong> Dijous 21:00 - 22:30</p>
+                <p><strong>Petits:</strong> Divendres 18:00 - 19:15</p>
+                <p><strong>Mitjans:</strong> Divendres 18:00 - 19:15</p>
+                <p><strong>Juvenils:</strong> Divendres 19:15 - 20:30</p>
+                <p>
+                    <strong>Cos de dansa:</strong> Dilluns i divendres 20:00 -
+                    22:00
+                </p>
             </div>
         </div>
 

@@ -1,10 +1,8 @@
-
-<img src="/assets/images/Cartell85_afi.jpeg" alt="Cartell85">
-
+![Cartell85](/assets/images/Cartell85_afi.jpeg){: style="max-width: 300px; margin: 0 auto; display: block; float: left;" }
 
 ### 85 ANYS DE DANSA, HISTÒRIA I GENERACIONS! ✨
 
-El 29 de novembre posarem la cirereta del pastís del nostre aniversari, amb el festival de dansa "85 anys en dansa" 💃🕺
+El 29 de novembre de 2025 posarem la cirereta del pastís del nostre aniversari, amb el festival de dansa "85 anys en dansa" 💃🕺
 
 Serà una jornada molt especial i màgica amb tots els nostres grups — petites, infantils, juvenils, cos de dansa i veterans — i amb la participació d’exdansaires que tornen a trepitjar l’escenari per reviure grans moments. 💫
 

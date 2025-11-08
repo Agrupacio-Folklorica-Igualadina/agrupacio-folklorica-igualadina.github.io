@@ -1,59 +1,93 @@
 <nav class="navigation">
-  <div class="container">
-    <div class="nav-container">
-      <a href="{{ '/' | relative_url }}" class="nav-brand">
-        <img src="{{ '/assets/images/logo_afi.jpg' | relative_url }}" 
-             alt="{{ site.title }}" 
-             class="nav-logo">
-      </a>
-      
-      <ul class="nav-links" id="navLinks">
-        <li><a href="{{ '/' | relative_url }}" class="nav-link">Inici</a></li>
-        <li><a href="{{ '/història' | relative_url }}" class="nav-link">Història</a></li>
-        <li><a href="{{ '/espectacles' | relative_url }}" class="nav-link">Espectacles</a></li>
-        <li><a href="{{ '/escola-de-dansa' | relative_url }}" class="nav-link">Escola de Dansa</a></li>
-        <li><a href="{{ '/calendari' | relative_url }}" class="nav-link">Calendari</a></li>
-        <li><a href="{{ '/contacte' | relative_url }}" class="nav-link">Contacte</a></li>
-      </ul>
-      
-      <button class="menu-toggle" id="menuToggle" aria-label="Toggle menu">
-        ☰
-      </button>
-    </div>
-  </div>
-</nav>
+    <div class="container">
+        <div class="nav-container">
+            <a href="{{ '/' | relative_url }}" class="nav-brand">
+                <img
+                    src="{{ '/assets/images/logo_afi.jpg' | relative_url }}"
+                    alt="{{ site.title }}"
+                    class="nav-logo"
+                />
+                <span>
+                    <span class="nav-title nav-title-full"
+                        >{{ site.title }}</span
+                    >
+                    <span class="nav-title nav-title-short"
+                        >{{ site.shorttitle }}</span
+                    >
+                </span>
+                <script>
+                    (function () {
+                        function updateNavTitle() {
+                            var full =
+                                document.querySelector(".nav-title-full");
+                            var short =
+                                document.querySelector(".nav-title-short");
+                            if (window.innerWidth > 600) {
+                                if (full) full.style.display = "";
+                                if (short) short.style.display = "none";
+                            } else {
+                                if (full) full.style.display = "none";
+                                if (short) short.style.display = "";
+                            }
+                        }
+                        window.addEventListener("resize", updateNavTitle);
+                        document.addEventListener(
+                            "DOMContentLoaded",
+                            updateNavTitle,
+                        );
+                    })();
+                </script>
+                <style>
+                    .nav-title-short {
+                        display: none;
+                    }
+                </style>
+            </a>
 
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  const menuToggle = document.getElementById('menuToggle');
-  const navLinks = document.getElementById('navLinks');
-  
-  menuToggle.addEventListener('click', function() {
-    navLinks.classList.toggle('active');
-  });
-  
-  // Close menu when clicking outside
-  document.addEventListener('click', function(event) {
-    if (!menuToggle.contains(event.target) && !navLinks.contains(event.target)) {
-      navLinks.classList.remove('active');
-    }
-  });
-  
-  // Close menu when clicking on a link (mobile)
-  const navLinksItems = navLinks.querySelectorAll('a');
-  navLinksItems.forEach(link => {
-    link.addEventListener('click', function() {
-      navLinks.classList.remove('active');
-    });
-  });
-  
-  // Add active class to current page
-  const currentPath = window.location.pathname;
-  navLinksItems.forEach(link => {
-    if (link.getAttribute('href') === currentPath || 
-        (currentPath === '/' && link.getAttribute('href') === '/')) {
-      link.classList.add('active');
-    }
-  });
-});
-</script>
+            <ul class="nav-links" id="navLinks">
+                <li>
+                    <a href="{{ '/' | relative_url }}" class="nav-link"
+                        >Inici</a
+                    >
+                </li>
+                <li>
+                    <a href="{{ '/història' | relative_url }}" class="nav-link"
+                        >Història</a
+                    >
+                </li>
+                <li>
+                    <a
+                        href="{{ '/espectacles' | relative_url }}"
+                        class="nav-link"
+                        >Espectacles</a
+                    >
+                </li>
+                <li>
+                    <a
+                        href="{{ '/escola-de-dansa' | relative_url }}"
+                        class="nav-link"
+                        >Escola</a
+                    >
+                </li>
+                <!--<li>
+                    <a href="{{ '/calendari' | relative_url }}" class="nav-link"
+                        >Calendari</a
+                    >
+                    </li>-->
+                <li>
+                    <a href="{{ '/contacte' | relative_url }}" class="nav-link"
+                        >Contacte</a
+                    >
+                </li>
+            </ul>
+
+            <button
+                class="menu-toggle"
+                id="menuToggle"
+                aria-label="Toggle menu"
+            >
+                ☰
+            </button>
+        </div>
+    </div>
+</nav>
