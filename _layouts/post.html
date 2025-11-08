@@ -21,7 +21,7 @@ hide_banner: true
         {% endif %} {% if page.featured_image %} ![{{ page.title }}]({{
         page.featured_image | relative_url }}){: style="max-width: 600px;
         margin: 0 auto; display: block;" } {% else %} ![{{ page.title
-        }}](/assets/images/logo_afi.jpg){: style="max-width: 600px; margin: 0
+        }}](/assets/logos/logo_afi.jpg){: style="max-width: 600px; margin: 0
         auto; display: block;" } {% endif %}
     </header>
 
@@ -71,7 +71,7 @@ hide_banner: true
         <div>
             {% for post in related_posts %}
             <div>
-                ![{{ post.title }}](/assets/images/logo_afi.jpg){:
+                ![{{ post.title }}](/assets/logos/logo_afi.jpg){:
                 style="max-width: 200px; margin: 0 auto; display: block;" }
                 <h4>
                     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>

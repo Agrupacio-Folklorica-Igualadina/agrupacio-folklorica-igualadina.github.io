@@ -13,95 +13,95 @@ Descobreix la màgia de la dansa tradicional catalana a través de les nostres i
 
 <div class="image-gallery">
   <div class="gallery-item">
-    ![Espectacle Les 4 Estacions](/assets/images/logo_afi.jpg)
+    ![Espectacle Les 4 Estacions](/assets/logos/logo_afi.jpg)
     <div class="caption">
       <h4>Espectacle "Les 4 Estacions"</h4>
       <p>83è aniversari de l'AFI - Novembre 2023</p>
     </div>
   </div>
-  
+
   <div class="gallery-item">
-    ![Ballada a Maians](/assets/images/logo_afi.jpg)
+    ![Ballada a Maians](/assets/logos/logo_afi.jpg)
     <div class="caption">
       <h4>Ballada a Maians</h4>
       <p>Grup de petits, mitjans i juvenils - Desembre 2023</p>
     </div>
   </div>
-  
+
   <div class="gallery-item">
-    ![Festa Major d'Igualada](/assets/images/logo_afi.jpg)
+    ![Festa Major d'Igualada](/assets/logos/logo_afi.jpg)
     <div class="caption">
       <h4>Festa Major d'Igualada</h4>
       <p>Cercavila tradicional - Agost 2023</p>
     </div>
   </div>
-  
+
   <div class="gallery-item">
-    ![Roda d'Esbarts Manresa](/assets/images/logo_afi.jpg)
+    ![Roda d'Esbarts Manresa](/assets/logos/logo_afi.jpg)
     <div class="caption">
       <h4>Roda d'Esbarts a Manresa</h4>
       <p>Cloenda de temporada - Juny 2023</p>
     </div>
   </div>
-  
+
   <div class="gallery-item">
-    ![Ballada a Rubió](/assets/images/logo_afi.jpg)
+    ![Ballada a Rubió](/assets/logos/logo_afi.jpg)
     <div class="caption">
       <h4>Ballada a Rubió</h4>
       <p>Juvenils i cos de dansa - Maig 2023</p>
     </div>
   </div>
-  
+
   <div class="gallery-item">
-    ![Dia Internacional de la Dansa](/assets/images/logo_afi.jpg)
+    ![Dia Internacional de la Dansa](/assets/logos/logo_afi.jpg)
     <div class="caption">
       <h4>Dia Internacional de la Dansa</h4>
       <p>Teatre de l'Ateneu Igualadí - Abril 2023</p>
     </div>
   </div>
-  
+
   <div class="gallery-item">
-    ![Roda d'Esbarts Sant Genís](/assets/images/logo_afi.jpg)
+    ![Roda d'Esbarts Sant Genís](/assets/logos/logo_afi.jpg)
     <div class="caption">
       <h4>Roda d'Esbarts Sant Genís de Taradell</h4>
       <p>Grup infantils - Maig 2023</p>
     </div>
   </div>
-  
+
   <div class="gallery-item">
-    ![Actuació Escola Maristes](/assets/images/logo_afi.jpg)
+    ![Actuació Escola Maristes](/assets/logos/logo_afi.jpg)
     <div class="caption">
       <h4>Actuació Escola Maristes</h4>
       <p>Estudiants de l'AFI - Març 2023</p>
     </div>
   </div>
-  
+
   <div class="gallery-item">
-    ![Inauguració Carrer Girona](/assets/images/logo_afi.jpg)
+    ![Inauguració Carrer Girona](/assets/logos/logo_afi.jpg)
     <div class="caption">
       <h4>Inauguració Carrer Girona</h4>
       <p>Cos de dansa i juvenils - Març 2023</p>
     </div>
   </div>
-  
+
   <div class="gallery-item">
-    ![Festival contra el càncer infantil](/assets/images/logo_afi.jpg)
+    ![Festival contra el càncer infantil](/assets/logos/logo_afi.jpg)
     <div class="caption">
       <h4>Festival contra el càncer infantil</h4>
       <p>Grup infantils - Febrer 2023</p>
     </div>
   </div>
-  
+
   <div class="gallery-item">
-    ![Roda d'Esbarts L'Hospitalet](/assets/images/logo_afi.jpg)
+    ![Roda d'Esbarts L'Hospitalet](/assets/logos/logo_afi.jpg)
     <div class="caption">
       <h4>Roda d'Esbarts L'Hospitalet</h4>
       <p>Grup juvenils - Gener 2023</p>
     </div>
   </div>
-  
+
   <div class="gallery-item">
-    ![Assaig general](/assets/images/logo_afi.jpg)
+    ![Assaig general](/assets/logos/logo_afi.jpg)
     <div class="caption">
       <h4>Assaig general</h4>
       <p>Preparació d'espectacle - Local AFI</p>
@@ -140,7 +140,7 @@ Descobreix la màgia de la dansa tradicional catalana a través de les nostres i
 ### Comparteix els teus moments AFI
 <p>Si tens fotografies de les nostres actuacions o activitats i vols compartir-les amb la comunitat, envia-les-nos!</p>
 
-![Comparteix fotos](/assets/images/logo_afi.jpg){: style="max-width: 200px; margin: 0 auto; display: block;" }
+![Comparteix fotos](/assets/logos/logo_afi.jpg){: style="max-width: 200px; margin: 0 auto; display: block;" }
 
 <p><strong>📧 Envia per correu:</strong> {{ site.email }}</p>
 <p><strong>📱 Etiqueta'ns a Instagram:</strong> @{{ site.instagram_username }}</p>

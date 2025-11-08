@@ -1,4 +1,4 @@
-![Cartell85](/assets/images/Cartell85_afi.jpeg){: style="max-width: 300px; margin: 0 auto; display: block; float: left;" }
+![Cartell85](/assets/logos/Cartell85_afi.jpeg){: style="max-width: 300px; margin: 0 auto; display: block; float: left;" }
 
 ### 85 ANYS DE DANSA, HISTÒRIA I GENERACIONS! ✨
 
