@@ -11,8 +11,8 @@ hide_banner: true
   <div class="contact-card" style="flex: 1 1 320px; min-width: 280px;">
       <h3 style="font-weight: 600;">✉️ Correu electrònic:</h3>
     <a href="mailto:{{ site.email }}" style="text-decoration: none;">{{ site.email }}</a>
-    <h3 style="font-weight: 600;">📞 Telèfon:</h3>
-    <a href="tel:+34938041234" style="text-decoration: none;">938 04 12 34</a>
+    <!--<h3 style="font-weight: 600;">📞 Telèfon:</h3>
+    <a href="tel:+34938041234" style="text-decoration: none;">938 04 12 34</a>-->
     <h3 style="margin-top: 0; display: flex; align-items: center; gap: 0.5em;">🌐 Xarxes socials</h3>
     <ul style="list-style: none; padding: 0; margin: 0 0 1.5em 0; font-size: 1em;">
         <li>
