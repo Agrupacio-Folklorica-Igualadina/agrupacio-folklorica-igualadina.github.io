@@ -28,3 +28,6 @@ Espectacle on es barregen les estacions amb les danses tradicionals catalanes. U
 </div>
 
 ## 85è aniversari
+El passat 29 de novembre de 2025 vam celebrar el 85è aniversari de l’Agrupació amb un espectacle molt especial dedicat a la intergeneracionalitat.
+
+Més de 80 dansaires van omplir l’escenari, des dels grups de petites, mitjanes, juvenils, cos de dansa i veterans, fins a exdansaires que van voler tornar a pujar a l’escenari per celebrar-ho plegats. Van ser dues hores plenes de dansa i emoció, que van posar de manifest l’amor de l’AFI per la cultura catalana i les seves tradicions. Esperem poder continuar celebrant molts anys més junts i mantenir viva aquesta gran família que ens uneix.

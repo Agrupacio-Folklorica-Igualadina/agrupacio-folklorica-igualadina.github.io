@@ -60,7 +60,9 @@ agrupaciofolkloricaigualadina/
    * `<img src="assets/images/thumbnail.jpg" alt="Thumbnail" width="120" height="80">`
 
 ## 🛠️ Desenvolupament local
-Primerament, cal tenir `git` instal·lat. Aleshores, també cal `ruby` per executar la applicació.
+La forma fàcil és pot utilitzar `docker`, executar `docker compose up` i obrir `127.0.0.1:4000`.
+
+Alternativament, per un desenvolupament local, es pot executar localment, utilitzant `ruby` per executar la applicació.
 
 A través de `ruby` instal·lar:
 ```bash
