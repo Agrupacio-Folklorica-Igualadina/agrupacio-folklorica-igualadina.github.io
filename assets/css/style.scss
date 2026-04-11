@@ -208,7 +208,7 @@ h3 a:hover {
 
 // Home Page Sections
 .home-section {
-    padding: 2rem 0;
+    padding: 2rem 2rem;
     border-bottom: 1px solid var(--border-green);
 
     &:nth-child(odd) {
@@ -568,4 +568,60 @@ h3 a:hover {
 .calendar-gallery-item img {
     border-radius: 6px;
     margin-bottom: 1rem;
+}
+
+
+.instagram-feed {
+    text-align: center;
+
+    .profile-badge {
+        display: inline-block;
+        margin-bottom: 20px;
+        text-align: center;
+
+        img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            font-size: 1.5rem;
+            color: var(--primary-green);
+        }
+
+        p {
+            font-size: 1rem;
+            color: var(--dark-text);
+        }
+    }
+
+    .photos {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+    }
+
+    .photo {
+        width: 200px;
+        border: 1px solid var(--border-green);
+        border-radius: 10px;
+        overflow: hidden;
+        text-align: left;
+        background-color: var(--cream-white);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+        img {
+            width: 100%;
+            display: block;
+        }
+
+        .description {
+            padding: 10px;
+            font-size: 14px;
+            color: var(--dark-text);
+        }
+    }
 }
